@@ -12,6 +12,11 @@ git add
 ```sh
 git commit -m "Message"
 ```
+Журнал изменений:
+```sh
+git log
+```
+
 
 
 
