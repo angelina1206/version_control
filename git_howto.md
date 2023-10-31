@@ -20,6 +20,10 @@ git log
 ```sh
 git log --oneline
 ```
+Переключение между версиями:
+```sh
+git checkout
+```
 
 
 
