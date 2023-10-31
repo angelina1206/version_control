@@ -16,6 +16,10 @@ git commit -m "Message"
 ```sh
 git log
 ```
+Журнал изменений в сокращении:
+```sh
+git log --oneline
+```
 
 
 
