@@ -10,7 +10,7 @@ git add
 ```
 Команда сохранения:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 Журнал изменений:
 ```sh
