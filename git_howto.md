@@ -24,6 +24,14 @@ git log --oneline
 ```sh
 git checkout
 ```
+Сливание веток:
+```sh
+git merge
+```
+Создание веток:
+```sh
+git branch
+```
 
 
 
