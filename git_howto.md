@@ -33,6 +33,10 @@ git branch
 git branch <имя_ветки>
 ```
 
+Слияние веток
+```sh
+git merge <имя_ветки>
+```
 
 
 
