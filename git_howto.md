@@ -22,7 +22,7 @@ git log --oneline
 ```
 Переключение между версиями:
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 Сливание веток:
 ```sh
