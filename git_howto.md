@@ -28,7 +28,7 @@ git checkout
 ```sh
 git merge
 ```
-Создание веток:
+Отображение всех веток:
 ```sh
 git branch
 ```
