@@ -32,16 +32,9 @@ git branch
 ```sh
 git branch <имя_ветки>
 ```
-
-<<<<<<< HEAD
-Слияние ветки
-```sh
-git merge <name>
-=======
 Слияние веток
 ```sh
 git merge <имя_ветки>
->>>>>>> home_branch1
 ```
 
 
