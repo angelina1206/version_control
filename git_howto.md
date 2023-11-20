@@ -36,6 +36,11 @@ git branch <имя_ветки>
 ```sh
 git merge <имя_ветки>
 ```
+Удаление ветки
+```sh
+git branch <NAME VETKA>
+```
+
 
 
 
