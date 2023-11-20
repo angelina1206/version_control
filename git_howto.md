@@ -40,8 +40,10 @@ git merge <имя_ветки>
 ```sh
 git branch <имя_ветки>
 ```
-
-
+Данные о слиянии ветки
+```sh
+git --oneline --graph
+```
 
 
 
