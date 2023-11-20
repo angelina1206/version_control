@@ -38,8 +38,9 @@ git merge <имя_ветки>
 ```
 Удаление ветки
 ```sh
-git branch <NAME VETKA>
+git branch <имя_ветки>
 ```
+
 
 
 
