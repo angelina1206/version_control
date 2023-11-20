@@ -45,6 +45,6 @@ git branch <имя_ветки>
 git --oneline --graph
 ```
 
-
+Завершение дз
 
 
