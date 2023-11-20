@@ -34,7 +34,7 @@ git branch <имя_ветки>
 ```
 Слияние веток
 ```sh
-git merge <name>
+git merge <имя ветки>
 ```
 
 
